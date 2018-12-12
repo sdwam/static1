@@ -12,3 +12,4 @@ Something is wrong with the XAMPP installation :-(
 read datahttps://github.com/sdwam/static1/pull/new/static1child1
 for static1child1 new branch changes test
 echo demo
+12dec: change1
